@@ -1,0 +1,5 @@
+gradeBook_name: book1, gradeBook_type: UA, gradeBook_num_sections: 3
+gradeSection_name: section1, gradeSection_weight: 1.0, gradeSection_num_grades: 1
+grade_name: aName, grade_value: 80.0, grade_possible: 100.0
+gradeSection_name: section2, gradeSection_weight: 1.0, gradeSection_num_grades: 0
+gradeSection_name: section3, gradeSection_weight: 1.0, gradeSection_num_grades: 0
